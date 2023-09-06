@@ -1,0 +1,105 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Da'Bomb\\source\\repos\\ResearchDynamicsIntergr\\ResearchDynamicsIntergr\\ResearchDynamicsIntergr.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Da'Bomb\\source\\repos\\ResearchDynamicsIntergr\\ResearchDynamicsIntergr\\ResearchDynamicsIntergr.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Da'Bomb\\source\\repos\\ResearchDynamicsIntergr\\ResearchDynamicsIntergr\\ResearchDynamicsIntergr.csproj",
+        "projectName": "ResearchDynamicsIntergr",
+        "projectPath": "C:\\Users\\Da'Bomb\\source\\repos\\ResearchDynamicsIntergr\\ResearchDynamicsIntergr\\ResearchDynamicsIntergr.csproj",
+        "packagesPath": "C:\\Users\\Da'Bomb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Da'Bomb\\source\\repos\\ResearchDynamicsIntergr\\ResearchDynamicsIntergr\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Da'Bomb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.Extensions.ApiDescription.Client": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "NSwag.ApiDescription.Client": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[13.0.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            },
+            "System.ServiceModel.Federation": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
