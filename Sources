@@ -1,0 +1,10 @@
+Sources used:
+https://learn.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio?pivots=dotnet-8-0
+https://salesforce.stackexchange.com/questions/175922/oauth-implementation-in-soap-api-c
+https://www.worldit.pt/about-us/blog/soap-web-services-in-net-core/
+https://stackoverflow.com/questions/8591194/how-to-oauth-and-soap
+https://stackoverflow.com/questions/4791794/client-to-send-soap-request-and-receive-response
+https://reqbin.com/req/csharp/yemanjjt/make-soap-request
+
+I had never encountered the SOAP protocol and OAuth tokens before, 
+but I successfully navigated these unfamiliar concepts by relying on a combination of YouTube tutorials and online resources to solve the challenges at hand.
